@@ -70,7 +70,7 @@ post_date: 2020-06-21 21:14:27
 			<a href="#" role="button">
 						Learn More
 					</a>
-			<h4>Do You Want To Boost Your Business?</h4>		
+			<h4>Do You Want To Boost Your Small Business?</h4>		
 			<h2>drop us a line and keep in touch</h2>		
 			<a href="#about" role="button">
 						Contact Us
