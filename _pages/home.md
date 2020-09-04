@@ -11,39 +11,52 @@ permalink: >
 published: true
 post_date: 2020-06-21 21:14:27
 ---
-<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/Olive-Brown-logo-transp.-1-ottokdfmoop1o7uoi8byh4mpek2de6h34b4kvu6tx4.png" title="Olive Brown logo transp. (1)" alt="Olive Brown logo transp. (1)" />											
-			<a role="button">
-						MENU
-					</a>
-							<a target="_blank" rel="noopener noreferrer">
-					Facebook-f
-									</a>
-							<a target="_blank" rel="noopener noreferrer">
-					Linkedin-in
-									</a>
-							<a target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-			<h2>Shaping the future</h2>		
-		<p>I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.</p>		
+<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/Olive-Brown-logo-transp.-1-ottokdfmoop22y75zr3t1o5b0fmuthwwrs1c4hx4p8.png" title="Olive Brown logo transp. (1)" alt="Olive Brown logo transp. (1)" />											
+					<ul>
+							<li>
+										209-337-5705
+									</li>
+						</ul>
+					<a target="_blank" rel="noopener noreferrer">
+						Facebook-f
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Linkedin-in
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Instagram
+											</a>
+			<h1>Olive Brown Agency</h1>		
+		<p>Closing the Digital Gap for minority businesses </p>		
 				<h3>
-					Advertising
+					SEO
+				</h3>
+								<p>We blend the art of creative copywriting with technical SEO services to achieve top organic search rankings that drive traffic, leads, and sales.</p>
+				<h3>
+					Web Design
 				</h3>
 								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+				<h3>
+					Consulting
+				</h3>
+								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h3 contenteditable="true" data-elementor-setting-key="title" data-pen-placeholder="Type Here...">Hi, we're The Olive Brown digital marketing agency!</h3>		
+			<p>If you’re looking for an Fort Worth web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on also being trailblazers. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
 				<h3>
 					Design
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 				<h3>
-					Dev System
+					Digital Marketing
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		<p style="text-align: center;">Enhance your Brand, Convince Customers</p>		
+								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+				<h3>
+					Support
+				</h3>
+								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 			<h3>Our Services Solve Real Problems</h3>		
 			<h2>what can we do for you?</h2>		
-			<a href="#about" role="button">
-						More Services
-					</a>
+			<h2>Our Services</h2>		
 			<figure><img width="500" height="440" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy.png" alt="" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy.png 500w, https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy-300x264.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure><h3>Web Development</h3>		
 			<a href="https://staging3.theolivebrownagency.com/web-development/" role="button">
 						Learn More
@@ -65,15 +78,15 @@ post_date: 2020-06-21 21:14:27
 			<a href="#about" role="button">
 						Contact Us
 					</a>
-										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/CTA-Home-page-New.png" alt="" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/CTA-Home-page-New.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/CTA-Home-page-New-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/CTA-Home-page-New-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
+										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1.png" alt="small business owner" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
 			<h6>Follow Us</h6>		
-							<a target="_blank" rel="noopener noreferrer">
-					Facebook-f
-									</a>
-							<a target="_blank" rel="noopener noreferrer">
-					Instagram
-									</a>
-							<a target="_blank" rel="noopener noreferrer">
-					Youtube
-									</a>
-		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX 76118<br />512-555-0194 | hello@theolivebrownagency.com</p>
+					<a target="_blank" rel="noopener noreferrer">
+						Facebook-f
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Instagram
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Youtube
+											</a>
+		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX 76118<br />Email | hello@theolivebrownagency.com</p>
