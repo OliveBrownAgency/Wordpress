@@ -52,10 +52,14 @@ post_date: 2020-06-21 21:14:27
 								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h3>Hi, we're The Olive Brown digital marketing agency!</h3>		
 			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
+				<svg xmlns="http://www.w3.org/2000/svg" width="50.000000pt" height="50.000000pt" viewBox="0 0 50.000000 50.000000" preserveAspectRatio="xMidYMid meet"><metadata>
+Created by potrace 1.16, written by Peter Selinger 2001-2019
+</metadata><g transform="translate(0.000000,50.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
+</g></svg>				
 				<h3>
-					Design
+					Web Design
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+								<p>Wondering why your competitors are outperforming you? It most likely has something to do with their website and what’s on it: </p>
 				<h3>
 					Digital Marketing
 				</h3>
