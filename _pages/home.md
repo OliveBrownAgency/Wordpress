@@ -27,6 +27,7 @@ post_date: 2020-06-21 21:14:27
 						Instagram
 											</a>
 			<h1>The Olive Brown Agency</h1>		
+			<h3>Bridging the digital gap for minority small business</h3>		
 					<blockquote>
 			<p>
 				"I had to make my own living and my own opportunity. But I made it! Don't sit down and wait for the opportunities to come. Get up and make them."			</p>
@@ -38,6 +39,7 @@ post_date: 2020-06-21 21:14:27
 									</footer>
 					</blockquote>
 			<h2>Schedule a Free Consultation!</h2>		
+										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1.png" alt="small business owner" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
 		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h2>We're The Olive Brown digital marketing agency!</h2>		
 			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
 				<h3>
