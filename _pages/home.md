@@ -59,7 +59,7 @@ post_date: 2020-06-21 21:14:27
 				<h3>
 					Digital Marketing
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+								<p>Online Marketing Services Proven to Increase Leads, Sales, & Revenue</p>
 				<h3>
 					Support
 				</h3>
