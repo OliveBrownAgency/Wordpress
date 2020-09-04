@@ -26,8 +26,8 @@ post_date: 2020-06-21 21:14:27
 					<a target="_blank" rel="noopener noreferrer">
 						Instagram
 											</a>
-			<h1>Olive Brown Agency</h1>		
-		<p>Closing the Digital Gap for minority businesses </p>		
+			<h1>The Olive Brown Agency</h1>		
+		Closing the Digital gap for minority businesses 		
 					<blockquote>
 			<p>
 				"I had to make my own living and my own opportunity. But I made it! Don't sit down and wait for the opportunities to come. Get up and make them."			</p>
@@ -50,12 +50,8 @@ post_date: 2020-06-21 21:14:27
 					Consulting
 				</h3>
 								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h3>Hi, we're The Olive Brown digital marketing agency!</h3>		
+		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h2>We're The Olive Brown digital marketing agency!</h2>		
 			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
-				<svg xmlns="http://www.w3.org/2000/svg" width="50.000000pt" height="50.000000pt" viewBox="0 0 50.000000 50.000000" preserveAspectRatio="xMidYMid meet"><metadata>
-Created by potrace 1.16, written by Peter Selinger 2001-2019
-</metadata><g transform="translate(0.000000,50.000000) scale(0.100000,-0.100000)" fill="#000000" stroke="none">
-</g></svg>				
 				<h3>
 					Web Design
 				</h3>
