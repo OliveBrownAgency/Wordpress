@@ -14,7 +14,7 @@ post_date: 2020-06-21 21:14:27
 <img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/Olive-Brown-logo-transp.-1-ottokdfmoop22y75zr3t1o5b0fmuthwwrs1c4hx4p8.png" title="Olive Brown logo transp. (1)" alt="Olive Brown logo transp. (1)" />											
 					<ul>
 							<li>
-										209-337-5705
+										hello@theolivebrownagency.com
 									</li>
 						</ul>
 					<a target="_blank" rel="noopener noreferrer">
@@ -27,7 +27,6 @@ post_date: 2020-06-21 21:14:27
 						Instagram
 											</a>
 			<h1>The Olive Brown Agency</h1>		
-		Closing the Digital gap for minority businesses 		
 					<blockquote>
 			<p>
 				"I had to make my own living and my own opportunity. But I made it! Don't sit down and wait for the opportunities to come. Get up and make them."			</p>
@@ -38,32 +37,21 @@ post_date: 2020-06-21 21:14:27
 													</a>
 									</footer>
 					</blockquote>
-				<h3>
-					SEO
-				</h3>
-								<p>We blend the art of creative copywriting with technical SEO services to achieve top organic search rankings that drive traffic, leads, and sales.</p>
-				<h3>
-					Web Design
-				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-				<h3>
-					Consulting
-				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+			<h2>Schedule a Free Consultation!</h2>		
 		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h2>We're The Olive Brown digital marketing agency!</h2>		
 			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
 				<h3>
 					Web Design
 				</h3>
-								<p>Wondering why your competitors are outperforming you? It most likely has something to do with their website and what’s on it: </p>
+								<p>Wondering why your competitors are outperforming you? It most likely has something to do with their website and what’s on it. Our mobile-responsive websites insure your business has a precence your customers can trust when it's time to purchase.</p>
 				<h3>
 					Digital Marketing
 				</h3>
-								<p>Online Marketing Services Proven to Increase Leads, Sales, & Revenue</p>
+								<p>Let the Olive Brown Agency digital agency team help develop an online marketing strategy to drive more qualified visitors to your site and convert those visitors into leads and sales. What are you waiting for? Contact us today and start adding the value of the web to your business.</p>
 				<h3>
-					Support
+					SEO
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
+								<p>We blend the art of creative copywriting with technical SEO services to achieve top organic search rankings that drive traffic, leads, and sales.</p>
 			<h3>Our Services Solve Real Problems</h3>		
 			<h2>what can we do for you?</h2>		
 			<figure><img width="500" height="440" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy.png" alt="" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy.png 500w, https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy-300x264.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure><h3>Web Development</h3>		
@@ -98,4 +86,4 @@ post_date: 2020-06-21 21:14:27
 					<a target="_blank" rel="noopener noreferrer">
 						Youtube
 											</a>
-		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX 76118<br />Email | hello@theolivebrownagency.com</p>
+		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX<br />Email | hello@theolivebrownagency.com</p>
