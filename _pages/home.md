@@ -28,6 +28,16 @@ post_date: 2020-06-21 21:14:27
 											</a>
 			<h1>Olive Brown Agency</h1>		
 		<p>Closing the Digital Gap for minority businesses </p>		
+					<blockquote>
+			<p>
+				"I had to make my own living and my own opportunity. But I made it! Don't sit down and wait for the opportunities to come. Get up and make them."			</p>
+							<footer>
+											<cite> - Madam C.J. Walker</cite>
+																<a href="https://twitter.com/intent/tweet?text=%22I+had+to+make+my+own+living+and+my+own+opportunity.+But+I+made+it%21+Don%27t+sit+down+and+wait+for+the+opportunities+to+come.+Get+up+and+make+them.%22+%E2%80%94++-+Madam+C.J.+Walker&amp;url=https%3A%2F%2Fstaging3.theolivebrownagency.com%2Fwp-admin%2Fadmin-ajax.php" target="_blank" rel="noopener noreferrer">
+																																													Tweet
+													</a>
+									</footer>
+					</blockquote>
 				<h3>
 					SEO
 				</h3>
@@ -41,7 +51,7 @@ post_date: 2020-06-21 21:14:27
 				</h3>
 								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h3 contenteditable="true" data-elementor-setting-key="title" data-pen-placeholder="Type Here...">Hi, we're The Olive Brown digital marketing agency!</h3>		
-			<p>If you’re looking for an Fort Worth web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on also being trailblazers. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
+			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
 				<h3>
 					Design
 				</h3>
@@ -56,7 +66,6 @@ post_date: 2020-06-21 21:14:27
 								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. </p>
 			<h3>Our Services Solve Real Problems</h3>		
 			<h2>what can we do for you?</h2>		
-			<h2>Our Services</h2>		
 			<figure><img width="500" height="440" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy.png" alt="" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy.png 500w, https://staging3.theolivebrownagency.com/wp-content/uploads/Group-11-Copy-300x264.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure><h3>Web Development</h3>		
 			<a href="https://staging3.theolivebrownagency.com/web-development/" role="button">
 						Learn More
