@@ -36,20 +36,4 @@ post_date: 2020-06-21 21:15:31
 					<a target="_blank" rel="noopener noreferrer">
 						Youtube
 											</a>
-		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX<br />Email | hello@theolivebrownagency.com</p>		
-				<h3>
-					minimize your documents
-				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
-				<h3>
-					follow client payments
-				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
-				<h3>
-					saved to the cloud
-				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
-				<h3>
-					automate repeating tasks
-				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
+		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX<br />Email | hello@theolivebrownagency.com</p>
