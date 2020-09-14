@@ -26,7 +26,7 @@ post_date: 2020-06-21 21:14:27
 					<a target="_blank" rel="noopener noreferrer">
 						Instagram
 											</a>
-			<h1>The Olive Brown Agency</h1>		
+			<h1>Olive Brown Agency</h1>		
 			<h3>Bridging the digital gap for minority small business</h3>		
 					<blockquote>
 			<p>
