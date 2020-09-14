@@ -9,7 +9,22 @@ permalink: >
 published: true
 post_date: 2020-06-21 21:15:31
 ---
-<p>Are you busy running your business and don't have time to setup a website or social media?</p>		
+<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/Olive-Brown-logo-transp.-1-ottokdfmoop22y75zr3t1o5b0fmuthwwrs1c4hx4p8.png" title="Olive Brown logo transp. (1)" alt="Olive Brown logo transp. (1)" />											
+					<ul>
+							<li>
+										hello@theolivebrownagency.com
+									</li>
+						</ul>
+					<a target="_blank" rel="noopener noreferrer">
+						Facebook-f
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Linkedin-in
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Instagram
+											</a>
+			<p>Are you busy running your business and don't have time to setup a website or social media?</p>		
 			<h3>Contact Us</h3>		
 			<h6>Follow Us</h6>		
 					<a target="_blank" rel="noopener noreferrer">
