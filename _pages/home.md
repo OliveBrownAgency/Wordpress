@@ -38,7 +38,8 @@ post_date: 2020-06-21 21:14:27
 													</a>
 									</footer>
 					</blockquote>
-										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-3.png" alt="business owner thinking about an online presence for his business" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-3.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-3-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-3-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
+			<h3>Elevate your business to the next level</h3>		
+										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4.png" alt="business owner thinking about an online presence for his business" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
 			<h2>Schedule a Free Consultation!</h2>		
 		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h2>We're The Olive Brown digital marketing agency!</h2>		
 			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
