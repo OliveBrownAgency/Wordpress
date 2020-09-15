@@ -47,12 +47,12 @@ post_date: 2020-06-28 01:07:59
 			<h2>Analysis</h2>		
 		<p>First, we take the time to get to know you, what makes your business unique, who your customers and target audiences are and who your competitors are. We seek to understand what your needs are and what would make a meaningful impact for your business.</p>		
 			<h2>Define</h2>		
-		<p>Our <a href="https://clutch.co/profile/jordan-crown" target="_blank" rel="noopener noreferrer">top-rated creative process</a> starts with a research phase, where we aim to understand your company, products, services and target audience. From there, we dev</p>		
+		<p>Our  creative process starts with a research phase, where we aim to understand your company, products, services and target audience. From there, we dev</p>		
 			<h2>Design</h2>		
-		<p>I am text block. Click edit button to change this text. </p>		
-			<h2>Testing</h2>		
-		<p>I am text block. Click edit button to change this text. </p>		
+		<p>How will  the website look? In this step, a website wireframe is created with basic web page elements such as the header, navigation, widgets, etc. Finally, use the Design step to finalize the overall look of the website with the client and discuss decisions for colors, typography, and imagery. </p>		
 			<h2>Deploy</h2>		
+		<p>In the Develop step,the website design is translated to actual code that makes the website work. This stage can be the most lengthy, so keep clients informed on the status of the project.</p>		
+			<h2>Testing</h2>		
 		<p>I am text block. Click edit button to change this text. </p>		
 			<h2>Maintenance</h2>		
 		<p>I am text block. Click edit button to change this text. </p>
