@@ -61,7 +61,7 @@ post_date: 2020-06-21 21:14:27
 						Learn More
 					</a>
 			<figure><img width="50" height="50" src="https://staging3.theolivebrownagency.com/wp-content/uploads/social-media-Icon-2.png" alt="" loading="lazy" /></figure><h3>Social Media</h3>		
-			<a href="#" role="button">
+			<a href="https://staging3.theolivebrownagency.com/web-development/" role="button">
 						Learn More
 					</a>
 			<figure><img width="500" height="440" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-13-Copy.png" alt="" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Group-13-Copy.png 500w, https://staging3.theolivebrownagency.com/wp-content/uploads/Group-13-Copy-300x264.png 300w" sizes="(max-width: 500px) 100vw, 500px" /></figure><h3>First-time Entrepreneur</h3>		
@@ -74,7 +74,7 @@ post_date: 2020-06-21 21:14:27
 					</a>
 			<h4>Do You Want To Boost Your Small Business?</h4>		
 			<h2>drop us a line and keep in touch</h2>		
-			<a href="#about" role="button">
+			<a href="https://staging3.theolivebrownagency.com/contact/" role="button">
 						Contact Us
 					</a>
 										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1.png" alt="small business owner" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/Untitled-design-1-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
