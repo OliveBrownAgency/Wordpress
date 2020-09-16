@@ -25,7 +25,7 @@ post_date: 2020-06-28 01:07:59
 						Instagram
 											</a>
 			<h3>our core services</h3>		
-		I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.		
+		<p>Everything we do here at "The Olive Brown Agency" is for the benefit of our customers. It all stems from our core set of services . Anything we will do will fall under these 4 categories.</p>		
 				<h3>
 					Social Media
 				</h3>
