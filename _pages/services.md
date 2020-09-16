@@ -43,7 +43,7 @@ post_date: 2020-06-28 01:07:59
 				</h3>
 								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
 			<h1>Our Process</h1>		
-		<p>Built on Industry Leading Technology</p>		
+		<p>Built on Industry Leading Open-Source Technology</p>		
 			<h2>Analysis</h2>		
 		<p>First, we take the time to get to know you, what makes your business unique, who your customers and target audiences are and who your competitors are. We seek to understand what your needs are and what would make a meaningful impact for your business.</p>		
 			<h2>Define</h2>		
