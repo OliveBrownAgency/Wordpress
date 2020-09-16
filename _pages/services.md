@@ -55,4 +55,25 @@ post_date: 2020-06-28 01:07:59
 			<h2>Testing</h2>		
 		<p>The purpose of the <b>testing phase</b> is to verify that every page looks great and works correctly. We thoroughly test each page of the website, checking it's structure, content, &amp; functionality, to ensure there are no errors or bugs.</p>		
 			<h2>Maintenance</h2>		
-		<p>This last and final step of web design is often overlooked but <strong>website maintenance</strong> is important for the long-term health and success of a website. Just like owning a car or house, a website will need upkeep and maintenance.</p>
+		<p>This last and final step of web design is often overlooked but <strong>website maintenance</strong> is important for the long-term health and success of a website. Just like owning a car or house, a website will need upkeep and maintenance.</p>		
+			<h4>FAQ</h4>		
+			<h5>Most frequent questions and answers</h5>		
+												<a href="">How long does a new website take to build ?</a>
+					<p>Website development length depends on a number of factors, including site complexity, review time, communication, sourcing of imagery, and more. Generally, our websites take anywhere from 2 to 6 months, with longer build times occuring due to delays in communication or client-supplied information, such as photos. Generally speaking, our team can move as fast as yours.</p>
+												<a href="">Can you make edits to my existing, non-WordPress site ?</a>
+					<p>We typically refrain from editing non-WordPress websites, because while we have the expertise to do so, working on websites built in other content management systems typically results in a high-budget project. Completing even simple tasks on a non-WordPress site can be time-consuming and costly, whereas we can more efficiently deliver results with a WordPress site. If needed, we can make basic edits to a non-WordPress site, but it is oftentimes more affordable to build a new WordPress website than to keep an older one on life support.</p>
+												<a href="">What will I need to provide you with in order to develop a new site  ?</a>
+					<p>You know your company and industry better than anyone, so we often refer to you for assistance in guiding our page copy, sourcing proper images, and more.</p>
+												<a href="">Will you continue to update my site after it is built ?</a>
+					<p>We offer website maintenance and hosting services. If you opt to retain us for web hosting, then we will continue to update the site and ensure that it is secure after it is built and launched. We also offer ongoing marketing services, if you wish for us to continue to add to and grow your site’s content.</p>
+			<h6>Follow Us</h6>		
+					<a target="_blank" rel="noopener noreferrer">
+						Facebook-f
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Instagram
+											</a>
+					<a target="_blank" rel="noopener noreferrer">
+						Youtube
+											</a>
+		<p>THE OLIVE BROWN AGENCY ,  FORT WORTH, TX<br />Email | hello@theolivebrownagency.com</p>
