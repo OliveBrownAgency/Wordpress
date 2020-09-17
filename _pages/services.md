@@ -38,11 +38,11 @@ Get ahead of your competition</p>
 				<h3>
 					BUsiness Consulting
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
+								<p>We'll help analyze and find opportunities to increase business exposure and productivity.</p>
 				<h3>
 					Web Development
 				</h3>
-								<p>Whether you need a front-end or  back-end developer we have you covered. </p>
+								<p>Whether it' s a  you need a front-end or back-end developer we have you covered. </p>
 			<h2>Our Process</h2>		
 		<p>Built on Industry Leading Open-Source Technology</p>		
 			<h2>Analysis</h2>		
