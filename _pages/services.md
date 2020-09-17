@@ -24,16 +24,17 @@ post_date: 2020-06-28 01:07:59
 					<a target="_blank" rel="noopener noreferrer">
 						Instagram
 											</a>
-			<h3>our core services</h3>		
+			<h1>our core services</h1>		
 		<p>Everything we do here at "The Olive Brown Agency" is for the benefit of our customers. It all stems from our core set of services . Anything we will do will fall under these 4 categories.</p>		
 				<h3>
 					Social Media
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
+								<p>Connect with Your Audience. Build your brand's loyalty while boosting sales. 
+Get ahead of your competition</p>
 				<h3>
 					Digital Marketing 
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
+								<p>Reach your customers where they spend their time and money. Explore new ways to target your audience and give world wide exposure .</p>
 				<h3>
 					BUsiness Consulting
 				</h3>
@@ -41,14 +42,14 @@ post_date: 2020-06-28 01:07:59
 				<h3>
 					Web Development
 				</h3>
-								<p>Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus luctus nec </p>
-			<h1>Our Process</h1>		
+								<p>Whether you need a front-end or  back-end developer we have you covered. </p>
+			<h2>Our Process</h2>		
 		<p>Built on Industry Leading Open-Source Technology</p>		
 			<h2>Analysis</h2>		
 		<p>First, we take the time to get to know you, what makes your business unique, who your customers and target audiences are and who your competitors are. We seek to understand what your needs are and what would make a meaningful impact for your business.</p>		
 			<h2>Define</h2>		
 		<p>Our  creative process starts with a research phase, where we aim to understand your company, products, services and target audience. From there, we <strong>define</strong> your businesses digital strategy.</p>		
-			<h2>Design</h2>		
+			<h3>Design</h3>		
 		<p>How will  the website look? In this step, a website wireframe is created with basic web page elements such as the header, navigation, widgets, etc. Finally, use the <strong>Design step</strong> to finalize the overall look of the website with the client and discuss decisions for colors, typography, and imagery. </p>		
 			<h2>Deploy</h2>		
 		<p>In the <strong>Deploy stage</strong> of the website design process is translated to actual code that makes the website work. This stage can be the most lengthy, so we keep clients informed on the status of the project.</p>		
@@ -56,7 +57,7 @@ post_date: 2020-06-28 01:07:59
 		<p>The purpose of the <b>testing phase</b> is to verify that every page looks great and works correctly. We thoroughly test each page of the website, checking it's structure, content, &amp; functionality, to ensure there are no errors or bugs.</p>		
 			<h2>Maintenance</h2>		
 		<p>This last and final step of web design is often overlooked but <strong>website maintenance</strong> is important for the long-term health and success of a website. Just like owning a car or house, a website will need upkeep and maintenance.</p>		
-			<h4>FAQ</h4>		
+			<h3>FAQ</h3>		
 			<h5>Most frequent questions and answers</h5>		
 												<a href="">How long does a new website take to build ?</a>
 					<p>Website development length depends on a number of factors, including site complexity, review time, communication, sourcing of imagery, and more. Generally, our websites take anywhere from 2 to 6 months, with longer build times occuring due to delays in communication or client-supplied information, such as photos. Generally speaking, our team can move as fast as yours.</p>
