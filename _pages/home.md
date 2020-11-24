@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2020-06-21 21:14:27
 ---
-<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/logo-1024x1024-1-oyw9ve17n1o65s7mact1kt2rsybgkc5y81l80ttaho.png" title="logo 1024&#215;1024" alt="logo 1024x1024" />											
+<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/Olive-Brown-logo-transp.-1-ottokdfmoop22y75zr3t1o5b0fmuthwwrs1c4hx4p8.png" title="Olive Brown logo transp. (1)" alt="Olive Brown logo transp. (1)" />											
 					<ul>
 							<li>
 										hello@theolivebrownagency.com
@@ -39,11 +39,10 @@ post_date: 2020-06-21 21:14:27
 									</footer>
 					</blockquote>
 			<h3>Elevate your business to the next level</h3>		
-										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic2.png" alt="services" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic2.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic2-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic2-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
+										<img width="539" height="539" src="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4.png" alt="business owner thinking about an online presence for his business" loading="lazy" srcset="https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4.png 539w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4-300x300.png 300w, https://staging3.theolivebrownagency.com/wp-content/uploads/home-page-graphic-4-150x150.png 150w" sizes="(max-width: 539px) 100vw, 539px" />											
 			<h2>Schedule a Free Consultation!</h2>		
-		<p>who we are...</p><h2>We're Olive Brown digital marketing agency!</h2>		
+		<p style="text-align: center;">Enhance your Brand, Convince Customers</p><p>who we are</p><h2>We're The Olive Brown digital marketing agency!</h2>		
 			<p>If you’re looking for a Fort Worth based web designer that can also deliver SEO, graphic design, content and social media marketing, you’ve come to the right place. We’re innovators, creators, and designers who pride ourselves on our work. Get to know The Agency Olive Brown Agency and what we can do:<br></p>		
-		<p style="text-align: center;">Enhance your Brand, Convince Customers</p>		
 				<h3>
 					Web Design
 				</h3>
@@ -74,7 +73,7 @@ post_date: 2020-06-21 21:14:27
 			<a href="#" role="button">
 						Learn More
 					</a>
-			<h4>Do You Want To Boost Your Small Business Reach?</h4>		
+			<h4>Do You Want To Boost Your Small Business?</h4>		
 			<h2>drop us a line and keep in touch</h2>		
 			<a href="https://staging3.theolivebrownagency.com/contact/" role="button">
 						Contact Us
