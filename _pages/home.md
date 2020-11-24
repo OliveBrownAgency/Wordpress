@@ -11,7 +11,7 @@ permalink: >
 published: true
 post_date: 2020-06-21 21:14:27
 ---
-<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/Olive-Brown-logo-transp.-1-ottokdfmoop22y75zr3t1o5b0fmuthwwrs1c4hx4p8.png" title="Olive Brown logo transp. (1)" alt="Olive Brown logo transp. (1)" />											
+<img src="https://staging3.theolivebrownagency.com/wp-content/uploads/elementor/thumbs/logo-1024x1024-1-oyw9ve17n1o65s7mact1kt2rsybgkc5y81l80ttaho.png" title="logo 1024&#215;1024" alt="logo 1024x1024" />											
 					<ul>
 							<li>
 										hello@theolivebrownagency.com
