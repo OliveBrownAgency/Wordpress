@@ -3,7 +3,7 @@ ID: 38
 post_title: >
   Digital Agency Supporting Minority
   Entrepreneurs
-author: damianscott2011@yahoo.com
+author: OliveBrown1
 post_excerpt: ""
 layout: page
 permalink: >
